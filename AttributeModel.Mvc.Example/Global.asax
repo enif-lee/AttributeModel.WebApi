@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="AttributeModel.Mvc.Example.WebApiApplication" Language="C#" %>
